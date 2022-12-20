@@ -7,3 +7,5 @@ russl-cory
 
 
 [https://russl-corey.github.io/Eugene_Police_Budget_Report.html](https://russl-corey.github.io/Eugene_Police_Budget_Report.html)
+
+[https://russl-corey.github.io/Oregon_Arrest_Race.html](https://russl-corey.github.io/Oregon_Arrest_Race.html)
